@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Title matched]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on NewGame button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 1st check box]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 2nd check box]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Go button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Next Generation button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Home Link]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on NewGame button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 3rd check box]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on 4th check box]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Go button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Next Generation button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Home Link]]>
+    </line>
+    <line>
+      <![CDATA[Application Closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-07-05T22:00:08 IST" name="Suite1" finished-at="2021-07-05T22:01:19 IST" duration-ms="71592">
+    <groups>
+    </groups>
+    <test started-at="2021-07-05T22:00:08 IST" name="gameoflife" finished-at="2021-07-05T22:01:19 IST" duration-ms="71592">
+      <class name="com.gameoflife.TC001_VerifyHomePage">
+        <test-method signature="tc001()[pri:0, instance:com.gameoflife.TC001_VerifyHomePage@2fd6b6c7]" started-at="2021-07-05T22:00:08 IST" name="tc001" finished-at="2021-07-05T22:00:19 IST" duration-ms="11686" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Title matched]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.gameoflife.TC001_VerifyHomePage -->
+      <class name="com.gameoflife.TC003_NewGame2">
+        <test-method signature="tc001()[pri:0, instance:com.gameoflife.TC003_NewGame2@5db250b4]" started-at="2021-07-05T22:00:49 IST" name="tc001" finished-at="2021-07-05T22:01:19 IST" duration-ms="30025" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on NewGame button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 3rd check box]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 4th check box]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Go button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Next Generation button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Home Link]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.gameoflife.TC003_NewGame2 -->
+      <class name="com.gameoflife.TC002_NewGame">
+        <test-method signature="tc001()[pri:0, instance:com.gameoflife.TC002_NewGame@5bfa9431]" started-at="2021-07-05T22:00:19 IST" name="tc001" finished-at="2021-07-05T22:00:49 IST" duration-ms="29839" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on NewGame button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 1st check box]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on 2nd check box]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Go button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Next Generation button]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Home Link]]>
+            </line>
+            <line>
+              <![CDATA[Application Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.gameoflife.TC002_NewGame -->
+    </test> <!-- gameoflife -->
+  </suite> <!-- Suite1 -->
+</testng-results>
